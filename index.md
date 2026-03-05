@@ -1,9 +1,13 @@
-# Joe Ledford
+<p align="center">
+  <img src="/assets/Headshot.jpg" width="180" style="border-radius: 50%;" />
+</p>
 
-![Profile Picture](/assets/Headshot.jpg)
+<h1 align="center">Joe Ledford</h1>
 
-Data Science Senior at American University
----
+<p align="center">
+Data Science Senior at American University  
+</p>
+
 
 [Projects](projects) | 
 [GitHub](https://github.com/joe-ledford-04) | 
@@ -24,17 +28,16 @@ Data Science Senior at American University
 - Macroeconomic Modeling
 
 ## Technical Skills
-- Python
-- R
-- Stata
-- pandas
-- NumPy
-- scikit-learn
-- Tensorflow
-- NLTK
-- BeautifulSoup
-- Matplotlib
-- tidyverse
-- Shiny
 
-  
+**Languages:** Python, R, Stata  
+**ML & Stats:** scikit-learn, TensorFlow, Econometrics, Forecasting  
+**Data Tools:** pandas, NumPy, Matplotlib, BeautifulSoup  
+**NLP:** NLTK  
+**R Ecosystem:** tidyverse, Shiny
+
+## Research Interests
+
+- Performance variability in competitive environments  
+- Forecasting under structural uncertainty  
+- Econometric modeling of behavioral systems  
+- Applied sports analytics  
