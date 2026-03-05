@@ -1,6 +1,6 @@
 # Joe Ledford
 
-![Profile Picture](assets/headhost.jpeg)
+![Profile Picture](assets/Headshot.jpg)
 
 Data Science Senior at American University
 ---
