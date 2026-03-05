@@ -5,14 +5,8 @@ title: Projects
 
 # Projects
 
-## Machine Learning & Modeling
-
-### Kaggle Housing Price Competition  
-Top 10% finish using optimized ensemble models.  
-[Read More](projects/kaggle-housing)
-
----
-
-### Cherry Blossom Prediction Competition  
-Sequential climate-threshold forecasting model.  
-[Read More](projects/cherry-blossom)
+{% for project in site.projects %}
+- **{{ project.title }}**  
+  {{ project.excerpt | markdownify }}  
+  [Read More]({{ project.url }})
+{% endfor %}
