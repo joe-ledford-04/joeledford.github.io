@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/Headshot.jpg" width="180" style="border-radius: 50%;" />
+  <img src="/assets/Headshot.jpg" width="140" style="border-radius: 50%; box-shadow: 0px 4px 12px rgba(0,0,0,0.15);" />
 </p>
 
 <h1 align="center">Joe Ledford</h1>
