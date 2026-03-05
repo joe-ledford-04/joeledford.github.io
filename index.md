@@ -9,13 +9,6 @@ Data Science Senior at American University
 </p>
 
 
-[Projects](projects) | 
-[GitHub](https://github.com/joe-ledford-04) | 
-[LinkedIn](www.linkedin.com/in/joseph-ledford04) | 
-[Resume](assets/Joe_Ledford_Resume.pdf)
-
----
-
 ## Procedural Knowledge
 - Regression
 - Classification
